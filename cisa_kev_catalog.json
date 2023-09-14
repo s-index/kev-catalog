@@ -1,7 +1,7 @@
 {
     "title":  "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion":  "2023.09.14",
-    "dateReleased":  "2023-09-14T09:40:17.1586Z",
+    "dateReleased":  "2023-09-14T12:32:24.0698Z",
     "count":  998,
     "vulnerabilities":  [
                             {
@@ -10963,10 +10963,10 @@
                             {
                                 "cveID":  "CVE-2023-4863",
                                 "vendorProject":  "Google",
-                                "product":  "Chromium",
-                                "vulnerabilityName":  "Google Chromium Heap-Based Buffer Overflow Vulnerability",
+                                "product":  "Chromium WebP",
+                                "vulnerabilityName":  "Google Chromium WebP Heap-Based Buffer Overflow Vulnerability",
                                 "dateAdded":  "2023-09-13",
-                                "shortDescription":  "Google Chromium contains a heap-based buffer overflow vulnerability in WebP that allows a remote attacker to perform an out-of-bounds memory write via a crafted HTML page.",
+                                "shortDescription":  "Google Chromium WebP contains a heap-based buffer overflow vulnerability that allows a remote attacker to perform an out-of-bounds memory write via a crafted HTML page. This vulnerability can affect applications that use the WebP Codec.",
                                 "requiredAction":  "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
                                 "dueDate":  "2023-10-04",
                                 "notes":  "https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html?m=1"
