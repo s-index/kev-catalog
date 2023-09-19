@@ -1,7 +1,7 @@
 {
     "title":  "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion":  "2023.09.19",
-    "dateReleased":  "2023-09-19T09:51:08.8562Z",
+    "dateReleased":  "2023-09-19T14:07:51.0136Z",
     "count":  1007,
     "vulnerabilities":  [
                             {
@@ -11013,7 +11013,7 @@
                                 "shortDescription":  "Zyxel EMG2926 routers contain a command injection vulnerability located in the diagnostic tools, specifically the nslookup function. A malicious user may exploit numerous vectors to execute malicious commands on the router, such as the ping_ip parameter to the expert/maintenance/diagnostic/nslookup URI.",
                                 "requiredAction":  "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
                                 "dueDate":  "2023-10-09",
-                                "notes":  "https://www.zyxelguard.com/Zyxel-EOL.asp"
+                                "notes":  "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-vulnerability-in-emg2926-q10a-ethernet-cpe, https://www.zyxelguard.com/Zyxel-EOL.asp"
                             },
                             {
                                 "cveID":  "CVE-2021-3129",
